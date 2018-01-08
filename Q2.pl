@@ -14,4 +14,4 @@ max(X,Y):-
   Z is Y,
   write(Z)
   )
-)
+).
